@@ -97,3 +97,6 @@ Chaque upgrade est un achat unique, sauvegardé via DataStore.
 - Les upgrades ne se cumulent pas (chacun est unique)
 - L'ordre d'achat n'a pas d'importance
 - Les données persistent entre sessions via DataStore
+
+---
+**➡️ Next: [DAY3-Generators](../DAY3-Generators/)**
