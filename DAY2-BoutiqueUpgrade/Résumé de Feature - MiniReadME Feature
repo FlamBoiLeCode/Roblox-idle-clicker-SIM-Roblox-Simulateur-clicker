@@ -1,0 +1,99 @@
+# 🛒 Day 2 — Upgrade Shop
+
+**🇬🇧 [English](#-english) | 🇫🇷 [Français](#-français)** donc en fr 
+
+---
+
+## 🇬🇧 English
+
+### What this feature adds
+
+A shop panel with 5 upgrades that boost the player's click power:
+- Upgrade 1: +1 click power (cost: 10)
+- Upgrade 2: +2 click power (cost: 100)
+- Upgrade 3: +5 click power (cost: 1,000)
+- Upgrade 4: +10 click power (cost: 10,000)
+- Upgrade 5: +25 click power (cost: 100,000)
+
+Each upgrade is one-time purchase, saved via DataStore.
+
+### Why it matters
+
+- Adds progression to the game (players feel they grow)
+- Creates a first goal loop: click → earn coins → buy upgrade → click harder → earn more
+- Base foundation for all incremental mechanics that come next
+
+### Prerequisites
+
+- ✅ **P1 MVP-Clicker** installed first (this feature builds on it)
+
+### Files in this folder
+
+- **`Main.lua`** → paste in `ServerScriptService` (as a `Script`) — replaces the P1 Main.lua
+- **`ClickHandler.lua`** → paste in `StarterPlayer` → `StarterPlayerScripts` (as a `LocalScript`) — replaces the P1 ClickHandler.lua
+
+### Test it
+
+1. Save both scripts
+2. Hit **▶️ Play** in Studio
+3. Click the CLIQUER button → earn coins
+4. Click the 🛒 BOUTIQUE button → panel opens with 5 upgrades
+5. Buy an upgrade → your click power increases
+
+### 🎥 Watch the video
+
+**TikTok Part 2:** [https://vm.tiktok.com/ZN88V8Bu8/](https://www.tiktok.com/@kevinpasflamboyant008)
+
+### Known notes
+
+- Upgrades don't stack (each one is one-time)
+- Order of purchase doesn't matter
+- Data persists across sessions via DataStore
+
+---
+
+## 🇫🇷 Français
+
+### Ce que cette feature ajoute
+
+Un panneau boutique avec 5 upgrades qui boostent le clic power du joueur :
+- Upgrade 1 : +1 clic power (coût : 10)
+- Upgrade 2 : +2 clic power (coût : 100)
+- Upgrade 3 : +5 clic power (coût : 1 000)
+- Upgrade 4 : +10 clic power (coût : 10 000)
+- Upgrade 5 : +25 clic power (coût : 100 000)
+
+Chaque upgrade est un achat unique, sauvegardé via DataStore.
+
+### Pourquoi c'est important
+
+- Ajoute de la progression au jeu (le joueur sent qu'il grandit)
+- Crée la première boucle d'objectif : clic → gagne coins → achète upgrade → clic plus fort → gagne plus
+- Base fondamentale pour toutes les mécaniques incrémentales à venir
+
+### Prérequis
+
+- ✅ **P1 MVP-Clicker** installé en premier (cette feature s'appuie dessus)
+
+### Fichiers dans ce dossier
+
+- **`Main.lua`** → colle dans `ServerScriptService` (en tant que `Script`) — remplace le Main.lua de P1
+- **`ClickHandler.lua`** → colle dans `StarterPlayer` → `StarterPlayerScripts` (en tant que `LocalScript`) — remplace le ClickHandler.lua de P1
+
+### Comment tester
+
+1. Sauvegarde les 2 scripts
+2. Appuie sur **▶️ Play** dans Studio
+3. Clic sur CLIQUER → gagne des coins
+4. Clic sur 🛒 BOUTIQUE → le panneau s'ouvre avec les 5 upgrades
+5. Achète un upgrade → ton clic power augmente
+
+### 🎥 Regarde la vidéo
+
+**TikTok Partie 2 :** [https://vm.tiktok.com/ZN88V8Bu8/](https://www.tiktok.com/@kevinpasflamboyant008)
+
+### Notes
+
+- Les upgrades ne se cumulent pas (chacun est unique)
+- L'ordre d'achat n'a pas d'importance
+- Les données persistent entre sessions via DataStore
