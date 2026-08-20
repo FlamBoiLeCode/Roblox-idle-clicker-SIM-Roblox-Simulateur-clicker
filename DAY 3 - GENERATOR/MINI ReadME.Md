@@ -54,6 +54,13 @@ Total coins/sec updates in real-time in the panel header.
 - Passive income runs server-side (secure, no client exploit possible)
 - All progress persists across sessions via DataStore
 
+### Files in this folder
+
+- **`Main.lua`** → paste inside `ServerScriptService` (as a `Script`) — replaces previous Main.lua, now handles generators server-side
+- **`GeneratorsUI.lua`** → paste inside `StarterPlayer` → `StarterPlayerScripts` (as a NEW `LocalScript`) — dedicated panel for generators
+
+> ⚠️ **Note about `ClickHandler.lua`:** it's not included in this folder because it hasn't changed since DAY2. If you're coming from DAY2, keep your existing `ClickHandler.lua`. If you're jumping straight to DAY3, grab it from the `DAY2-Upgrade-Shop/` folder.
+
 ---
 
 ## 🇫🇷 Français
@@ -109,3 +116,10 @@ Le total de coins/sec s'update en temps réel dans le header du panneau.
 ---
 
 **➡️ Next / Suivant : DAY4 — Prestige System (coming soon)**
+
+### Fichiers dans ce dossier
+
+- **`Main.lua`** → colle dans `ServerScriptService` (en tant que `Script`) — remplace le Main.lua précédent, gère maintenant les générateurs côté serveur
+- **`GeneratorsUI.lua`** → colle dans `StarterPlayer` → `StarterPlayerScripts` (en tant que NOUVEAU `LocalScript`) — panneau dédié aux générateurs
+
+> ⚠️ **Note sur `ClickHandler.lua` :** il n'est pas inclus dans ce dossier car il n'a pas changé depuis DAY2. Si tu viens de DAY2, garde ton `ClickHandler.lua` existant. Si tu sautes directement à DAY3, récupère-le depuis le dossier `DAY2-Upgrade-Shop/`.
