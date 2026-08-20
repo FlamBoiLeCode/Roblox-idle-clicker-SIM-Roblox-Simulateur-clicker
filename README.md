@@ -54,7 +54,7 @@ Hit **▶️ Play** in Studio → click the button → watch your coins go up!
 
 - [x] **Part 1** — MVP: click button + auto-save
 - [x] **Part 2** — Upgrade shop (5 upgrades to boost click power)
-- [ ] **Part 3** — Passive generators (idle income)
+- [x] **Part 3** — Passive generators (idle income)
 - [ ] **Part 4** — Prestige system (reset for permanent multiplier)
 - [ ] **Part 5** — Number formatting (1K, 1M, 1B, T...)
 - [ ] **Part 6** — Click animation + floating coins
@@ -123,7 +123,7 @@ Appuie sur **▶️ Play** dans Studio → clique le bouton → regarde tes coin
 
 - [x] **Partie 1** — MVP : bouton clic + sauvegarde auto
 - [x] **Partie 2** — Boutique upgrades (5 upgrades pour booster le clic power)
-- [ ] **Partie 3** — Générateurs passifs (idle income)
+- [x] **Partie 3** — Générateurs passifs (idle income)
 - [ ] **Partie 4** — Système prestige (reset pour multiplicateur permanent)
 - [ ] **Partie 5** — Formatage nombres (1K, 1M, 1B, T...)
 - [ ] **Partie 6** — Animation clic + coins flottants
