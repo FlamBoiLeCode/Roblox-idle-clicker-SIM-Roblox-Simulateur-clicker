@@ -56,7 +56,7 @@ Hit **▶️ Play** in Studio → click the button → watch your coins go up!
 - [x] **Part 2** — Upgrade shop (5 upgrades to boost click power)
 - [x] **Part 3** — Passive generators (idle income)
 - [x] **Part 4** — Prestige system (reset for permanent multiplier)
-- [ ] **Part 5** — Number formatting (1K, 1M, 1B, T...)
+- [x] **Part 5** — Number formatting (1K, 1M, 1B, T...)
 - [ ] **Part 6** — Click animation + floating coins
 - [ ] **Part 7** — Sounds (click, purchase, prestige)
 - [ ] **Part 8+** — UI polish, particles, milestones, player titles...
@@ -125,7 +125,7 @@ Appuie sur **▶️ Play** dans Studio → clique le bouton → regarde tes coin
 - [x] **Partie 2** — Boutique upgrades (5 upgrades pour booster le clic power)
 - [x] **Partie 3** — Générateurs passifs (idle income)
 - [x] **Partie 4** — Système prestige (reset pour multiplicateur permanent)
-- [ ] **Partie 5** — Formatage nombres (1K, 1M, 1B, T...)
+- [x] **Partie 5** — Formatage nombres (1K, 1M, 1B, T...)
 - [ ] **Partie 6** — Animation clic + coins flottants
 - [ ] **Partie 7** — Sons (clic, achat, prestige)
 - [ ] **Partie 8+** — Polish UI, particules, milestones, titres joueur...
