@@ -67,7 +67,7 @@ Once created, it's integrated across the UI scripts (ClickHandler, GeneratorsUI,
 
 ### 🎥 Watch the video
 
-**TikTok Part 5:** [Link to the video](https://www.tiktok.com/@kevinpasflamboyant008)
+**TikTok Part 5:** [https://vm.tiktok.com/ZN8Nkb16a/](https://www.tiktok.com/@kevinpasflamboyant008)
 
 ### Known notes
 
@@ -140,7 +140,7 @@ Une fois créé, il est intégré dans les scripts UI (ClickHandler, GeneratorsU
 
 ### 🎥 Regarde la vidéo
 
-**TikTok Partie 5 :** [Lien vers la vidéo](https://www.tiktok.com/@kevinpasflamboyant008)
+**TikTok Partie 5 :** [https://vm.tiktok.com/ZN8Nkb16a/](https://www.tiktok.com/@kevinpasflamboyant008)
 
 ### Notes
 
