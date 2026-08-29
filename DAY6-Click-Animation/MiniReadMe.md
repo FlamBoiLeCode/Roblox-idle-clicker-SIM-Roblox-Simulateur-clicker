@@ -47,7 +47,7 @@ Combined = every click feels **satisfying and rewarding**, especially when spam-
 
 ### 🎥 Watch the video
 
-**TikTok Part 6:** [Link to the video](https://www.tiktok.com/@kevinpasflamboyant008)
+**TikTok Part 6:** [https://vm.tiktok.com/ZN8FDQ9YT/](https://www.tiktok.com/@kevinpasflamboyant008)
 
 ### Technical notes
 
@@ -102,7 +102,7 @@ Combiné = chaque clic donne une **sensation satisfaisante et gratifiante**, sur
 
 ### 🎥 Regarde la vidéo
 
-**TikTok Partie 6 :** [Lien vers la vidéo](https://www.tiktok.com/@kevinpasflamboyant008)
+**TikTok Partie 6 :** [https://vm.tiktok.com/ZN8FDQ9YT/](https://www.tiktok.com/@kevinpasflamboyant008)
 
 ### Notes techniques
 
